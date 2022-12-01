@@ -52,9 +52,6 @@ function Login() {
           Login with Google
         </button>
         <div className="">
-          <Link className=" font-semibold" to="/reset">
-            Forgot Password
-          </Link>
           <p className="">Don't have an account?</p>{" "}
           <Link className="font-semibold" to="/register">
             Register now
